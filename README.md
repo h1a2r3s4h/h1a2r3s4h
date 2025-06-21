@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Gangwar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1H_2WFVs3bDp94drGdVo2s&ust=1750594302423000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCYl5G-go4DFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/672357ff-bbc6-42cf-a84f-b83a48b31a1d)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h1a2r3s4h&label=Profile%20views&color=0e75b6&style=flat" alt="h1a2r3s4h" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1a2r3s4h" alt="h1a2r3s4h" /></a> </p>
