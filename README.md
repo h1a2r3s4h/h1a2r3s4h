@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=h1a2r3s4h&label=Profile%20views&color=0e75b6&style=flat" alt="h1a2r3s4h" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=h1a2r3s4h" alt="h1a2r3s4h" />
-  </a>
-</p>
-
 - 📫 How to reach me: **harshitgangwar1601@gmail.com**
 
 ---
