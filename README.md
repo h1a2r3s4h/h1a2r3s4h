@@ -53,6 +53,22 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+
+  <!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
+<!-- shadcn/ui -->
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
