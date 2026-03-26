@@ -110,7 +110,6 @@ const harshit: Developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1a2r3s4h&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff20" alt="Contribution Graph" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
