@@ -88,7 +88,6 @@ const harshit: Developer = {
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
