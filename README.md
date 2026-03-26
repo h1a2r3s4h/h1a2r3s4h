@@ -93,15 +93,15 @@ const harshit: Developer = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=h1a2r3s4h&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=h1a2r3s4h&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1a2r3s4h&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1a2r3s4h&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=h1a2r3s4h&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=h1a2r3s4h&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
