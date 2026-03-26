@@ -92,14 +92,6 @@ const harshit: Developer = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=h1a2r3s4h&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1a2r3s4h&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=h1a2r3s4h&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
@@ -109,17 +101,7 @@ const harshit: Developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1a2r3s4h&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff20" alt="Contribution Graph" />
 
 </div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=h1a2r3s4h&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
-</div>
-
----
+--
 
 ## 🧩 LeetCode Stats
 
@@ -192,15 +174,6 @@ jobs:
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-## 📈 WakaTime Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=h1a2r3s4h&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
 
 </div>
 
