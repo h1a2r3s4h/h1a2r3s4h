@@ -196,7 +196,6 @@ jobs:
 </div>
 
 ---
-
 ## 📈 WakaTime Coding Activity
 
 <div align="center">
