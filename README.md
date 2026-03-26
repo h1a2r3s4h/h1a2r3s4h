@@ -199,19 +199,6 @@ jobs:
 
 ---
 
-## 🎯 2025 Goals
-
-```
-✅  Master TypeScript & Advanced React Patterns
-✅  Build 3+ production-level full-stack projects
-⏳  Contribute meaningfully to open-source
-⏳  Solve 400+ LeetCode problems
-⏳  Learn Docker & set up CI/CD pipelines
-⏳  Land a role at a top product-based company
-```
-
----
-
 ## 📈 WakaTime Coding Activity
 
 <div align="center">
