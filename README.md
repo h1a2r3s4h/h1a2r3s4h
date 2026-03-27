@@ -178,9 +178,13 @@ jobs:
 </div>
 
 ---
+
+
 <div align="center">
-  
+  <img src="./PHOTO.jpg" alt="Harshit Gangwar" width="250" />
 </div>
+
+---
 
 
 <div align="center">
