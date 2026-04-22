@@ -43,6 +43,216 @@ const harshit: Developer = {
 
 ---
 
+<div align="center">
+
+```
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   ╚════██║
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   ███████║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
+```
+
+### ✦ A curated showcase of AI-powered full-stack projects ✦
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Live-black?style=for-the-badge)](https://skill-forge-eight.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-h1a2r3s4h-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h)
+[![npm](https://img.shields.io/badge/npm-gitpal--cli-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gitpal-cli)
+
+---
+
+*Building at the intersection of AI × Developer Tools × Real-world Impact*
+
+</div>
+
+---
+
+## 🗂️ Table of Contents
+
+- [🔥 Featured Projects](#-featured-projects)
+  - [SkillForge](#1--skillforge)
+  - [VOX HIRE](#2--vox-hire--ai-recruiter-voice-agent)
+  - [GitPal CLI](#3--gitpal--ai-developer-teammate-cli)
+  - [DevPilot AI](#4--devpilot-ai)
+- [🛠️ Tech Stack Overview](#️-tech-stack-overview)
+- [🚀 Getting Started](#-getting-started)
+- [📬 Connect](#-connect)
+
+---
+
+## 🔥 Featured Projects
+
+### 1 ✦ SkillForge
+
+<div align="center">
+
+> *"Where careers are forged, not found."*
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-skill--forge--eight.vercel.app-e6c235?style=for-the-badge)](https://skill-forge-eight.vercel.app)
+[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h/SkillForge)
+
+</div>
+
+**SkillForge** is a next-generation AI-powered career preparation platform designed for students and professionals ready to level up their careers.
+
+#### ✨ Highlights
+- 🧠 AI-driven skill assessments and personalized learning paths
+- 📄 Smart resume builder with real-time feedback
+- 🎯 Interview prep powered by cutting-edge AI models
+- 📊 Progress tracking & career roadmap visualization
+
+#### 🏷️ Tech Stack
+```
+ReactJs  •  Next.js  •  JavaScript  •  AI Integration  •  Tailwind CSS
+```
+
+---
+
+### 2 ✦ VOX HIRE — AI Recruiter Voice Agent
+
+<div align="center">
+
+> *"Your recruiter is always on — and always listening."*
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-vox--hire.vercel.app-0a295e?style=for-the-badge)](https://vox-hire-voice-agent.vercel.app)
+[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h/VoxHire---Voice-agent)
+
+</div>
+
+**VOX HIRE** is an AI-powered recruiter voice agent that automatically creates and conducts job interviews using cutting-edge voice technology — no human recruiter required.
+
+#### ✨ Highlights
+- 🎤 Real-time voice interviews with AI-generated questions
+- 🤖 Fully automated interview pipeline from job post → candidate evaluation
+- 📋 Instant transcript generation and candidate scoring
+- 🔒 Secure data storage with Supabase backend
+
+#### 🏷️ Tech Stack
+```
+Next.js  •  React  •  Supabase  •  Vapi AI  •  Tailwind CSS
+```
+
+---
+
+### 3 ✦ GitPal — AI Developer Teammate CLI
+
+<div align="center">
+
+> *"Git smarter, ship faster."*
+
+[![npm version](https://img.shields.io/npm/v/gitpal-cli?style=for-the-badge&color=CB3837&logo=npm)](https://www.npmjs.com/package/gitpal-cli)
+[![npm downloads](https://img.shields.io/npm/dt/gitpal-cli?style=for-the-badge&color=orange)](https://www.npmjs.com/package/gitpal-cli)
+[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h/gitpal)
+[![Open Source](https://img.shields.io/badge/❤️_Open_Source-Yes-brightgreen?style=for-the-badge)](https://github.com/h1a2r3s4h/gitpal)
+
+</div>
+
+**GitPal** is an open-source AI-powered CLI tool with **16 commands** that automates your entire Git workflow — from writing commit messages to deploying code. Published on npm and supports **4 major AI providers**.
+
+#### ✨ Highlights
+- ⚡ 16 powerful commands to supercharge your Git workflow
+- 🤖 Multi-provider AI support: Groq, OpenAI, Gemini, Anthropic
+- 📝 Auto-generates meaningful commit messages from diffs
+- 🚀 One-command deploy pipelines
+- 🌍 Published on npm — install globally in seconds
+
+#### 🚀 Quick Start
+```bash
+npm install -g gitpal-cli
+gitpal --help
+```
+
+#### 🏷️ Tech Stack
+```
+Node.js  •  CLI  •  AI / LLM  •  npm  •  Open Source
+```
+
+---
+
+### 4 ✦ DevPilot AI
+
+<div align="center">
+
+> *"Not just an assistant — a full autonomous dev team."*
+
+[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h/DevPilot-Ai)
+[![Agents](https://img.shields.io/badge/🤖_Powered_By-CrewAI_Agents-6C63FF?style=for-the-badge)](https://github.com/h1a2r3s4h/DevPilot-Ai)
+
+</div>
+
+**DevPilot AI** is a fully autonomous developer assistant powered by a pipeline of specialized agents — each with its own role, tools, and memory — working together to understand, write, execute, and review code across your entire codebase.
+
+#### ✨ Highlights
+- 🏗️ Multi-agent architecture with specialized roles (Planner, Coder, Reviewer, Executor)
+- 🧠 Long-term memory via FAISS vector database + sentence-transformers embeddings
+- 📡 Real-time SSE streaming for live agent thought process
+- 🔍 Codebase-aware context with full repo understanding
+- 🎨 Beautiful React/Streamlit UI for interactive sessions
+
+#### 🏷️ Tech Stack
+```
+Python  •  FastAPI  •  Gemini LLM  •  sentence-transformers
+FAISS Vector DB  •  CrewAI Agents  •  SSE Streaming  •  React / Streamlit
+```
+
+---
+
+## 🛠️ Tech Stack Overview
+
+<div align="center">
+
+| Category | Technologies |
+|:--------:|:------------|
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Python, FastAPI, Node.js |
+| **AI / LLM** | Gemini, OpenAI, Anthropic, Groq, Vapi AI |
+| **Database** | Supabase, FAISS Vector DB |
+| **DevTools** | CLI, npm, Open Source |
+| **Deployment** | Vercel |
+
+</div>
+
+---
+
+## 🚀 Getting Started
+
+Each project has its own setup guide in its repository. Click the **Source Code** badges above to explore individual projects.
+
+For **GitPal CLI** — the only globally installable tool:
+
+```bash
+# Install globally
+npm install -g gitpal-cli
+
+# Configure your preferred AI provider
+gitpal config
+
+# Start automating your git workflow
+gitpal commit     # AI-generated commit messages
+gitpal review     # AI code review
+gitpal deploy     # One-command deploy
+```
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+Have an idea, want to collaborate, or just want to say hi?
+
+[![GitHub](https://img.shields.io/badge/GitHub-h1a2r3s4h-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h1a2r3s4h)
+[![npm](https://img.shields.io/badge/npm-gitpal--cli-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/gitpal-cli)
+
+---
+
+<sub>Built with ❤️, lots of ☕, and a little too much AI</sub>
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
