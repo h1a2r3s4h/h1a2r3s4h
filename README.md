@@ -111,32 +111,8 @@ const harshit: Developer = {
 
 ## 🚀 Featured Projects
 
-### 1 ✦ SkillForge
 
-<div align="center">
-
-> *"Where careers are forged, not found."*
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-skill--forge--eight.vercel.app-e6c235?style=for-the-badge)](https://skill-forge-eight.vercel.app)
-[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h/SkillForge)
-
-</div>
-
-**SkillForge** is a next-generation AI-powered career preparation platform designed for students and professionals ready to level up their careers.
-
-**✨ Highlights**
-- 🧠 AI-driven skill assessments and personalized learning paths
-- 📄 Smart resume builder with real-time feedback
-- 🎯 Interview prep powered by cutting-edge AI models
-- 📊 Progress tracking & career roadmap visualization
-
-```
-ReactJs  •  Next.js  •  JavaScript  •  AI Integration  •  Tailwind CSS
-```
-
----
-
-### 2 ✦ VOX HIRE — AI Recruiter Voice Agent
+### 1 ✦ VOX HIRE — AI Recruiter Voice Agent
 
 <div align="center">
 
@@ -161,42 +137,7 @@ Next.js  •  React  •  Supabase  •  Vapi AI  •  Tailwind CSS
 
 ---
 
-### 3 ✦ GitPal — AI Developer Teammate CLI
-
-<div align="center">
-
-> *"Git smarter, ship faster."*
-
-[![npm version](https://img.shields.io/npm/v/gitpal-cli?style=for-the-badge&color=CB3837&logo=npm)](https://www.npmjs.com/package/gitpal-cli)
-[![npm downloads](https://img.shields.io/npm/dt/gitpal-cli?style=for-the-badge&color=orange)](https://www.npmjs.com/package/gitpal-cli)
-[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/h1a2r3s4h/gitpal)
-[![Open Source](https://img.shields.io/badge/❤️_Open_Source-Yes-brightgreen?style=for-the-badge)](https://github.com/h1a2r3s4h/gitpal)
-
-</div>
-
-**GitPal** is an open-source AI-powered CLI tool with **16 commands** that automates your entire Git workflow — from writing commit messages to deploying code. Published on npm with support for **4 major AI providers**.
-
-**✨ Highlights**
-- ⚡ 16 powerful commands to supercharge your Git workflow
-- 🤖 Multi-provider AI: Groq, OpenAI, Gemini, Anthropic
-- 📝 Auto-generates meaningful commit messages from diffs
-- 🚀 One-command deploy pipelines
-- 🌍 Published on npm — install globally in seconds
-
-```bash
-npm install -g gitpal-cli
-gitpal commit   # AI-generated commit messages
-gitpal review   # AI code review
-gitpal deploy   # One-command deploy
-```
-
-```
-Node.js  •  CLI  •  AI / LLM  •  npm  •  Open Source
-```
-
----
-
-### 4 ✦ DevPilot AI
+### 2 ✦ DevPilot AI
 
 <div align="center">
 
