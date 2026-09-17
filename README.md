@@ -123,16 +123,16 @@ const harshit: Developer = {
 
 </div>
 
-**VOX HIRE** is an AI-powered recruiter voice agent that automatically creates and conducts job interviews using cutting-edge voice technology — no human recruiter required.
+**VOX HIRE** is an AI-powered recruiter voice agent that conducts real-time voice interviews, evaluates candidates automatically, and ranks them — reducing manual screening effort for recruiters.
 
 **✨ Highlights**
-- 🎤 Real-time voice interviews with AI-generated questions
-- 🤖 Fully automated interview pipeline from job post → candidate evaluation
-- 📋 Instant transcript generation and candidate scoring
-- 🔒 Secure data storage with Supabase backend
+- 🎤 Real-time two-way voice interviews using WebRTC, speech-to-text, and text-to-speech
+- 🤖 End-to-end automated pipeline — from interview creation to candidate scoring
+- 📋 Automatic competency scoring, leaderboard ranking, and exportable PDF reports
+- 🔒 Rate-limited, cached API backend with secure data storage on Supabase
 
 ```
-Next.js  •  React  •  Supabase  •  Vapi AI  •  Tailwind CSS
+Next.js  •  React  •  Supabase  •  Vapi AI  •  Redis  •  Tailwind CSS
 ```
 
 ---
@@ -148,18 +148,17 @@ Next.js  •  React  •  Supabase  •  Vapi AI  •  Tailwind CSS
 
 </div>
 
-**DevPilot AI** is a fully autonomous developer assistant powered by a pipeline of specialized agents — each with its own role, tools, and memory — working together to understand, write, execute, and review code across your entire codebase.
+**DevPilot AI** is a multi-agent AI developer assistant that plans, writes, reviews, and executes code autonomously — combining hybrid code search with sandboxed execution for safe, context-aware coding help.
 
 **✨ Highlights**
-- 🏗️ Multi-agent architecture: Planner, Coder, Reviewer, Executor
-- 🧠 Long-term memory via FAISS vector DB + sentence-transformers
-- 📡 Real-time SSE streaming for live agent thought process
-- 🔍 Codebase-aware context with full repo understanding
-- 🎨 Beautiful React/Streamlit UI for interactive sessions
+- 🤖 5-stage multi-agent pipeline (Planner, Coder, Reviewer, Debugger, Executor) for autonomous code generation
+- 🔍 Hybrid code search engine combining BM25 keyword search and FAISS vector search with retrieval evaluation
+- ⚡ Asynchronous FastAPI backend using Celery and Redis, with token-level streaming responses
+- 📊 Real-time observability dashboard tracking latency (p50/p95) and LLM token usage
+- 🐳 Isolated Docker sandboxes for safe, autonomous code execution
 
 ```
-Python  •  FastAPI  •  Gemini LLM  •  sentence-transformers
-FAISS Vector DB  •  CrewAI Agents  •  SSE Streaming  •  React / Streamlit
+Python  •  FastAPI  •  CrewAI  •  FAISS  •  Redis  •  Celery  •  React
 ```
 
 ---
